@@ -1,0 +1,8 @@
+body-parser and its syntax
+
+nodemon
+
+npx nodemon index.js (automatically starts the server again after code change)
+
+
+what is 443 PORT and what effect does it have on the URL

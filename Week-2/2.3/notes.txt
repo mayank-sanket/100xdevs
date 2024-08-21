@@ -1,0 +1,47 @@
+Bash Commands:
+
+1. pwd
+2. cd 
+3. ls
+4. touch
+5. mkdir
+6. cat: to read the contents of a file in the terminal
+
+7. vi : 
+   
+   eg: vi filename.extension
+
+    a. press I to enter inside
+    b. press esc to exit
+    c. :q! (exit without saving)
+    d. :wq! (exit after saving)
+
+8. mv:
+eg: mv a.txt test   => moves a.txt file to test folder
+eg: mv test2 test1 => moves test1 to test2
+eg: mv test3 test2/new-folder
+
+
+
+9. cp:
+eg: cp a3.js test2   => copies a3.js file to test2 folder
+
+note: in order to copy one folder or directory to another, you have to use this command instead (because things are recursive) 
+you need to pass in a flag
+
+cp -r test9 test10   => makes a copy of  test9 folder in test10
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+
+10. node
+11. npm
+12. nvm (node version manager)
+13. git
+
+
+----------------------------
+
+EXTRAS: 
+
+npm/registry: you can publish your own packages

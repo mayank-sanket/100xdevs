@@ -1,0 +1,8 @@
+// try to observe the thread and core usage while executing a heavy program in Node.js to check the single threaded nature of JS
+
+// know more about context switching etc
+
+// questions to do:
+1. create a counter in JS that counts from 30 to 0
+2. calculate the time it takes between a setTimeOut call and the inner function actually running
+3. create a terminal clock (HH:MM:SS)

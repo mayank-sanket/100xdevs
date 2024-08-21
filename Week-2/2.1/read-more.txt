@@ -1,0 +1,10 @@
+promise.all()
+spawn
+
+promise chaining
+
+catch
+
+error handling
+
+etc.
