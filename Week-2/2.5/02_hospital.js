@@ -3,6 +3,12 @@ const app = express();
 
 const PORT = process.env.PORT || 3000;
 
+
+// in memory array to store the patients
+
+
+
+
 app.get('/', function(request, response){
     response.send(
         `<div>
@@ -16,6 +22,8 @@ app.get('/', function(request, response){
     </div>`
     )
 })
+
+
 
 app.listen(PORT, function(){
     console.log(`Server running on port ${PORT}`);
